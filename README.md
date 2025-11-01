@@ -1,6 +1,5 @@
 # PRODIGY_CS_02
 Cyber Security Internship Task 2 – Prodigy InfoTech
-**Intern:**   Stephany
   
 ## Task Overview
 Develop a simple image encryption and decryption tool using **pixel manipulation**. The program performs operations such as swapping pixel values or applying basic mathematical transformations to encrypt and decrypt images.
@@ -19,7 +18,7 @@ To understand basic concepts of image-based cryptography and how pixel-level dat
 - **IDE:** VS Code  
 
 ## What I Learned
-How pixel values represent image data
-How simple mathematical operations can be used for image encryption
-Basics of file I/O and using Pillow for image manipulation
+- How pixel values represent image data
+- How simple mathematical operations can be used for image encryption
+- Basics of file I/O and using Pillow for image manipulation
 
