@@ -13,7 +13,7 @@ To understand basic concepts of image-based cryptography and how pixel-level dat
 - Supports color and grayscale images  
 - Simple Python interface for user input  
 
-## Tools & Technologies Used
+## Tools Used
 - **Language:** Python 3   
 - **IDE:** VS Code  
 
