@@ -23,4 +23,14 @@ To understand basic concepts of image-based cryptography and how pixel-level dat
 - Basics of file I/O and using Pillow for image manipulation
 
 ##Output 
-<pre> ```Image Encryption Tool Enter the image file name (e.g., sample.png): thumbnail.png Enter encryption key (e.g., 50): 30 Choose mode (encrypt/decrypt): encrypt Image encrypted successfully! Saved as encrypted_image.png === Image Encryption Tool  Enter the image file name (e.g., sample.png): encrypted_image.png Enter encryption key (e.g., 50): 30 Choose mode (encrypt/decrypt): decrypt Image decrypted successfully! Saved as decrypted_image.png ``` </pre>
+<pre> ```Image Encryption Tool 
+Enter the image file name (e.g., sample.png): thumbnail.png 
+Enter encryption key (e.g., 50): 30 
+Choose mode (encrypt/decrypt): encrypt 
+Image encrypted successfully! Saved as encrypted_image.png
+  
+Image Encryption Tool 
+Enter the image file name (e.g., sample.png): encrypted_image.png
+Enter encryption key (e.g., 50): 30 
+Choose mode (encrypt/decrypt): decrypt 
+Image decrypted successfully! Saved as decrypted_image.png ``` </pre>
